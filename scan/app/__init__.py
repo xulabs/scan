@@ -1,0 +1,3 @@
+'''
+applications to specifica domains
+'''
